@@ -1,0 +1,31 @@
+name: Update Loteca Data
+on:
+  schedule:
+    - cron: '0 9 * * 1' # Roda toda segunda às 09:00 UTC
+  workflow_dispatch: # Permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run Scraping
+        run: python get_loteca_atual.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add dados_loterias/loteca_atual.json
+          git commit -m "🤖 Loteca: Programação Atualizada" || exit 0
+          git push
