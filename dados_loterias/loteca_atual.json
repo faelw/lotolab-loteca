@@ -1,0 +1,133 @@
+{
+    "concurso": "1150",
+    "loteria": "loteca",
+    "atualizado_em": "2026-03-07",
+    "jogos": [
+        {
+            "posicao": 1,
+            "time_casa": "NOVORIZONTINO",
+            "time_fora": "PALMEIRAS",
+            "info": "Paulistão",
+            "probabilidades": { "c1": 20, "x": 25, "c2": 55 },
+            "palpite_ia": "COLUNA 2",
+            "analise": "O Palmeiras possui elenco superior, mesmo jogando fora de casa."
+        },
+        {
+            "posicao": 2,
+            "time_casa": "ASA",
+            "time_fora": "CRB",
+            "info": "Alagoano",
+            "probabilidades": { "c1": 25, "x": 35, "c2": 40 },
+            "palpite_ia": "DUPLO (X2)",
+            "analise": "Clássico equilibrado, com leve favoritismo para o CRB pelo momento técnico."
+        },
+        {
+            "posicao": 3,
+            "time_casa": "LONDRINA",
+            "time_fora": "OPERARIO-PR",
+            "info": "Paranaense",
+            "probabilidades": { "c1": 35, "x": 35, "c2": 30 },
+            "palpite_ia": "COLUNA 1",
+            "analise": "O fator casa costuma prevalecer neste confronto do interior paranaense."
+        },
+        {
+            "posicao": 4,
+            "time_casa": "BOTAFOGO-PB",
+            "time_fora": "SERRA BRANCA",
+            "info": "Paraibano",
+            "probabilidades": { "c1": 60, "x": 25, "c2": 15 },
+            "palpite_ia": "COLUNA 1",
+            "analise": "O Belo é franco favorito jogando no Almeidão."
+        },
+        {
+            "posicao": 5,
+            "time_casa": "MILAN",
+            "time_fora": "INTER DE MILÃO",
+            "info": "Série A TIM",
+            "probabilidades": { "c1": 30, "x": 30, "c2": 40 },
+            "palpite_ia": "COLUNA 2",
+            "analise": "Derby della Madonnina. A Inter vive fase levemente mais estável."
+        },
+        {
+            "posicao": 6,
+            "time_casa": "CRICIÚMA",
+            "time_fora": "CAMBORIÚ",
+            "info": "Catarinense",
+            "probabilidades": { "c1": 70, "x": 20, "c2": 10 },
+            "palpite_ia": "COLUNA 1",
+            "analise": "O Tigre é muito forte no Heriberto Hülse e deve vencer com facilidade."
+        },
+        {
+            "posicao": 7,
+            "time_casa": "PORTUGUESA-RJ",
+            "time_fora": "MARICÁ",
+            "info": "Carioca",
+            "probabilidades": { "c1": 50, "x": 30, "c2": 20 },
+            "palpite_ia": "COLUNA 1",
+            "analise": "A Lusa Carioca tem mais tradição e melhor estrutura de elenco."
+        },
+        {
+            "posicao": 8,
+            "time_casa": "INTERNACIONAL",
+            "time_fora": "GRÊMIO",
+            "info": "Gauchão",
+            "probabilidades": { "c1": 40, "x": 35, "c2": 25 },
+            "palpite_ia": "DUPLO (1X)",
+            "analise": "Grenal no Beira-Rio. O Inter leva vantagem pelo mando, mas o empate é provável."
+        },
+        {
+            "posicao": 9,
+            "time_casa": "PAYSANDU",
+            "time_fora": "REMO",
+            "info": "Paraense",
+            "probabilidades": { "c1": 38, "x": 32, "c2": 30 },
+            "palpite_ia": "COLUNA 1",
+            "analise": "Re-Pa é decidido nos detalhes. Leve favoritismo ao Papão pelo fator casa."
+        },
+        {
+            "posicao": 10,
+            "time_casa": "CEILÂNDIA",
+            "time_fora": "GAMA",
+            "info": "Brasiliense",
+            "probabilidades": { "c1": 30, "x": 30, "c2": 40 },
+            "palpite_ia": "COLUNA 2",
+            "analise": "O Gama possui maior investimento e camisa no confronto distrital."
+        },
+        {
+            "posicao": 11,
+            "time_casa": "CHAPECOENSE",
+            "time_fora": "BARRA FC",
+            "info": "Catarinense",
+            "probabilidades": { "c1": 55, "x": 25, "c2": 20 },
+            "palpite_ia": "COLUNA 1",
+            "analise": "A Chape precisa da vitória na Arena Condá para se consolidar."
+        },
+        {
+            "posicao": 12,
+            "time_casa": "CEARÁ",
+            "time_fora": "FORTALEZA",
+            "info": "Cearense",
+            "probabilidades": { "c1": 30, "x": 33, "c2": 37 },
+            "palpite_ia": "DUPLO (X2)",
+            "analise": "Clássico Rei. O Fortaleza vive momento técnico superior nas últimas temporadas."
+        },
+        {
+            "posicao": 13,
+            "time_casa": "CAMPINENSE",
+            "time_fora": "SOUSA",
+            "info": "Paraibano",
+            "probabilidades": { "c1": 40, "x": 35, "c2": 25 },
+            "palpite_ia": "COLUNA 1",
+            "analise": "A Raposa é forte em Campina Grande contra o Dinossauro."
+        },
+        {
+            "posicao": 14,
+            "time_casa": "NÁUTICO",
+            "time_fora": "SPORT",
+            "info": "Pernambucano",
+            "probabilidades": { "c1": 28, "x": 32, "c2": 40 },
+            "palpite_ia": "COLUNA 2",
+            "analise": "Clássico dos Clássicos. O Sport possui um elenco mais caro e qualificado."
+        }
+    ]
+}
