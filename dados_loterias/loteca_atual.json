@@ -1,7 +1,7 @@
 {
-  "concurso": 1238,
+  "concurso": "1238",
   "loteria": "loteca",
-  "data_atualizacao": "2026-03-19",
+  "atualizado_em": "2026-03-19",
   "jogos": [
     {
       "posicao": 1,
@@ -9,8 +9,8 @@
       "time_fora": "FLAMENGO/RJ",
       "info": "Futebol Nacional",
       "probabilidades": { "c1": 30, "x": 30, "c2": 40 },
-      "palpite_ia": "COLUNA 2",
-      "analise": "O Flamengo chega com um elenco mais robusto e favoritismo nas odds, mas o Corinthians em casa costuma amarrar o jogo. A estatística aponta uma leve vantagem visitante."
+      "palpite_ia": "DUPLO (X2)",
+      "analise": "O Flamengo chega com um elenco mais robusto e favoritismo nas odds, mas o Corinthians em casa costuma amarrar o jogo. A estatística aponta uma leve vantagem visitante, ideal para proteção dupla."
     },
     {
       "posicao": 2,
@@ -54,8 +54,8 @@
       "time_fora": "PALMEIRAS/SP",
       "info": "Futebol Nacional",
       "probabilidades": { "c1": 33, "x": 34, "c2": 33 },
-      "palpite_ia": "EMPATE",
-      "analise": "Choque-Rei. Um clássico com odds extremamente parelhas no mercado de apostas. O alto grau de equilíbrio tático sugere uma forte probabilidade de igualdade no placar."
+      "palpite_ia": "DUPLO (1X)",
+      "analise": "Choque-Rei. Um clássico com odds extremamente parelhas no mercado de apostas. O alto grau de equilíbrio tático sugere uma forte probabilidade de igualdade ou leve vantagem ao mandante."
     },
     {
       "posicao": 7,
@@ -81,8 +81,8 @@
       "time_fora": "GREMIO/RS",
       "info": "Futebol Nacional",
       "probabilidades": { "c1": 35, "x": 35, "c2": 30 },
-      "palpite_ia": "COLUNA 1",
-      "analise": "Jogo duro. O Vasco se apoia fortemente na pressão de São Januário, mas o Grêmio é um visitante estrategicamente perigoso. Ligeira vantagem cruzmaltina."
+      "palpite_ia": "DUPLO (1X)",
+      "analise": "Jogo duro. O Vasco se apoia fortemente na pressão de São Januário, mas o Grêmio é um visitante estrategicamente perigoso. Projeção pede dupla chance."
     },
     {
       "posicao": 10,
@@ -90,8 +90,8 @@
       "time_fora": "JUVENTUDE/RS",
       "info": "Futebol Nacional",
       "probabilidades": { "c1": 35, "x": 35, "c2": 30 },
-      "palpite_ia": "EMPATE",
-      "analise": "O Juventude vem de campanhas mais consistentes na elite, mas a Ressacada atua como um trunfo para o Avaí. A projeção aponta para um duelo amarrado."
+      "palpite_ia": "DUPLO (1X)",
+      "analise": "O Juventude vem de campanhas mais consistentes na elite, mas a Ressacada atua como um trunfo para o Avaí. A projeção aponta para um duelo amarrado, favorecendo os donos da casa ou empate."
     },
     {
       "posicao": 11,
