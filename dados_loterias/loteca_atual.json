@@ -1,133 +1,133 @@
 {
-    "concurso": "1151",
-    "loteria": "loteca",
-    "atualizado_em": "2026-03-11",
-    "jogos": [
-        {
-            "posicao": 1,
-            "time_casa": "PALMEIRAS",
-            "time_fora": "MIRASSOL",
-            "info": "Paulistão",
-            "probabilidades": { "c1": 65, "x": 20, "c2": 15 },
-            "palpite_ia": "COLUNA 1",
-            "analise": "Jogando no Allianz Parque, o Palmeiras é franco favorito devido à grande superioridade técnica do elenco."
-        },
-        {
-            "posicao": 2,
-            "time_casa": "GAMA",
-            "time_fora": "CEILÂNDIA",
-            "info": "Brasiliense",
-            "probabilidades": { "c1": 35, "x": 35, "c2": 30 },
-            "palpite_ia": "DUPLO (1X)",
-            "analise": "Clássico tenso no DF. O Gama tem o fator casa, mas o Ceilândia costuma fazer jogos muito duros. Risco alto de empate."
-        },
-        {
-            "posicao": 3,
-            "time_casa": "SERGIPE",
-            "time_fora": "CONFIANÇA",
-            "info": "Sergipano",
-            "probabilidades": { "c1": 33, "x": 34, "c2": 33 },
-            "palpite_ia": "EMPATE",
-            "analise": "O Derby Sergipano é historicamente um dos clássicos mais equilibrados do Nordeste. Probabilidade máxima de igualdade no placar."
-        },
-        {
-            "posicao": 4,
-            "time_casa": "VITÓRIA",
-            "time_fora": "ATLÉTICO-MG",
-            "info": "Brasileirão",
-            "probabilidades": { "c1": 25, "x": 30, "c2": 45 },
-            "palpite_ia": "COLUNA 2",
-            "analise": "O Barradão é um caldeirão, mas o Galo possui um plantel muito mais caro e com maior poder de decisão no ataque."
-        },
-        {
-            "posicao": 5,
-            "time_casa": "WEST HAM",
-            "time_fora": "MANCHESTER CITY",
-            "info": "Premier League",
-            "probabilidades": { "c1": 15, "x": 20, "c2": 65 },
-            "palpite_ia": "COLUNA 2",
-            "analise": "Mesmo em Londres, a máquina de Pep Guardiola dita o ritmo do jogo. O City é o grande favorito da rodada."
-        },
-        {
-            "posicao": 6,
-            "time_casa": "BOTAFOGO",
-            "time_fora": "FLAMENGO",
-            "info": "Clássico RJ",
-            "probabilidades": { "c1": 30, "x": 30, "c2": 40 },
-            "palpite_ia": "DUPLO (X2)",
-            "analise": "Clássico da Rivalidade. O Botafogo vive boa fase estrutural, mas o Flamengo leva vantagem no confronto direto e no poder de fogo."
-        },
-        {
-            "posicao": 7,
-            "time_casa": "FLUMINENSE",
-            "time_fora": "ATHLETICO-PR",
-            "info": "Brasileirão",
-            "probabilidades": { "c1": 45, "x": 30, "c2": 25 },
-            "palpite_ia": "COLUNA 1",
-            "analise": "No Maracanã, o tricolor carioca impõe seu estilo de posse de bola. O Furacão costuma ter dificuldades como visitante no Rio."
-        },
-        {
-            "posicao": 8,
-            "time_casa": "INTERNACIONAL",
-            "time_fora": "BAHIA",
-            "info": "Brasileirão",
-            "probabilidades": { "c1": 50, "x": 30, "c2": 20 },
-            "palpite_ia": "COLUNA 1",
-            "analise": "O Beira-Rio é um diferencial enorme para o Colorado. O Bahia é perigoso nos contra-ataques, mas a pressão gaúcha deve prevalecer."
-        },
-        {
-            "posicao": 9,
-            "time_casa": "SANTOS",
-            "time_fora": "CORINTHIANS",
-            "info": "Clássico SP",
-            "probabilidades": { "c1": 40, "x": 35, "c2": 25 },
-            "palpite_ia": "DUPLO (1X)",
-            "analise": "Clássico Alvinegro na Vila Belmiro. O fator 'Alçapão' dá o favoritismo ao Peixe, mas clássicos paulistas têm forte tendência a empate."
-        },
-        {
-            "posicao": 10,
-            "time_casa": "GOIÁS",
-            "time_fora": "ATLÉTICO-GO",
-            "info": "Goiano",
-            "probabilidades": { "c1": 30, "x": 35, "c2": 35 },
-            "palpite_ia": "DUPLO (X2)",
-            "analise": "O Dragão (Atlético) tem apresentado maior consistência tática recente sobre o rival Esmeraldino. Jogo muito duro."
-        },
-        {
-            "posicao": 11,
-            "time_casa": "LIVERPOOL",
-            "time_fora": "TOTTENHAM",
-            "info": "Premier League",
-            "probabilidades": { "c1": 55, "x": 25, "c2": 20 },
-            "palpite_ia": "COLUNA 1",
-            "analise": "A atmosfera de Anfield costuma engolir o Tottenham. Os Spurs oscilam muito em grandes jogos fora de casa."
-        },
-        {
-            "posicao": 12,
-            "time_casa": "CORITIBA",
-            "time_fora": "REMO",
-            "info": "Copa do Brasil / Série B",
-            "probabilidades": { "c1": 55, "x": 25, "c2": 20 },
-            "palpite_ia": "COLUNA 1",
-            "analise": "O Coxa é muito sólido no Couto Pereira. O Remo precisará de uma atuação defensiva perfeita para arrancar um empate."
-        },
-        {
-            "posicao": 13,
-            "time_casa": "CRUZEIRO",
-            "time_fora": "VASCO",
-            "info": "Brasileirão",
-            "probabilidades": { "c1": 45, "x": 30, "c2": 25 },
-            "palpite_ia": "COLUNA 1",
-            "analise": "No Mineirão, o Cruzeiro controla as ações do jogo. O Vasco tem camisa pesada, mas o mando de campo pesa a favor da Raposa."
-        },
-        {
-            "posicao": 14,
-            "time_casa": "BRAGANTINO",
-            "time_fora": "SÃO PAULO",
-            "info": "Paulistão",
-            "probabilidades": { "c1": 35, "x": 30, "c2": 35 },
-            "palpite_ia": "DUPLO (1X)",
-            "analise": "O Massa Bruta é um mandante indigesto no Nabi Abi Chedid e costuma tirar pontos dos grandes da capital."
-        }
-    ]
+  "concurso": 1238,
+  "loteria": "loteca",
+  "data_atualizacao": "2026-03-19",
+  "jogos": [
+    {
+      "posicao": 1,
+      "time_casa": "CORINTHIANS/SP",
+      "time_fora": "FLAMENGO/RJ",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 30, "x": 30, "c2": 40 },
+      "palpite_ia": "COLUNA 2",
+      "analise": "O Flamengo chega com um elenco mais robusto e favoritismo nas odds, mas o Corinthians em casa costuma amarrar o jogo. A estatística aponta uma leve vantagem visitante."
+    },
+    {
+      "posicao": 2,
+      "time_casa": "BRAGANTINO/SP",
+      "time_fora": "BOTAFOGO/RJ",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 35, "x": 30, "c2": 35 },
+      "palpite_ia": "EMPATE",
+      "analise": "Confronto de alto nível. O Botafogo tem mostrado excelente forma, mas o fator casa do Bragantino nivela as cotações no mercado. O empate é um cenário forte."
+    },
+    {
+      "posicao": 3,
+      "time_casa": "FLUMINENSE/RJ",
+      "time_fora": "ATLETICO/MG",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 38, "x": 30, "c2": 32 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "Times muito ofensivos. O Fluminense no Maracanã carrega uma ligeira vantagem nas projeções estatísticas, embora o Galo tenha poder de fogo para surpreender."
+    },
+    {
+      "posicao": 4,
+      "time_casa": "BOTAFOGO/SP",
+      "time_fora": "FORTALEZA/CE",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 20, "x": 25, "c2": 55 },
+      "palpite_ia": "COLUNA 2",
+      "analise": "Diferença técnica clara nas divisões. O Fortaleza tem amplo favoritismo contra o Botafogo-SP, refletindo uma forte tendência na Coluna 2 nas casas de apostas."
+    },
+    {
+      "posicao": 5,
+      "time_casa": "CUIABA/MT",
+      "time_fora": "SPORT/PE",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 45, "x": 30, "c2": 25 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "Jogando na Arena Pantanal, o Cuiabá costuma impor um ritmo intenso. Os dados dão vantagem aos mandantes contra um Sport que oscila em jogos fora de casa."
+    },
+    {
+      "posicao": 6,
+      "time_casa": "SAO PAULO/SP",
+      "time_fora": "PALMEIRAS/SP",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 33, "x": 34, "c2": 33 },
+      "palpite_ia": "EMPATE",
+      "analise": "Choque-Rei. Um clássico com odds extremamente parelhas no mercado de apostas. O alto grau de equilíbrio tático sugere uma forte probabilidade de igualdade no placar."
+    },
+    {
+      "posicao": 7,
+      "time_casa": "ATHLETICO/PR",
+      "time_fora": "CORITIBA/PR",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 55, "x": 25, "c2": 20 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "Atletiba. O Furacão possui um elenco superior atualmente e o mando de campo na Ligga Arena pesa muito a seu favor nas probabilidades analíticas."
+    },
+    {
+      "posicao": 8,
+      "time_casa": "CRUZEIRO/MG",
+      "time_fora": "SANTOS/SP",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 40, "x": 30, "c2": 30 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "Confronto de camisas pesadas. O Cruzeiro detém um leve favoritismo sustentado pelo mando no Mineirão, enquanto o Santos tenta buscar pontos reativos."
+    },
+    {
+      "posicao": 9,
+      "time_casa": "VASCO DA GAMA/RJ",
+      "time_fora": "GREMIO/RS",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 35, "x": 35, "c2": 30 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "Jogo duro. O Vasco se apoia fortemente na pressão de São Januário, mas o Grêmio é um visitante estrategicamente perigoso. Ligeira vantagem cruzmaltina."
+    },
+    {
+      "posicao": 10,
+      "time_casa": "AVAI/SC",
+      "time_fora": "JUVENTUDE/RS",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 35, "x": 35, "c2": 30 },
+      "palpite_ia": "EMPATE",
+      "analise": "O Juventude vem de campanhas mais consistentes na elite, mas a Ressacada atua como um trunfo para o Avaí. A projeção aponta para um duelo amarrado."
+    },
+    {
+      "posicao": 11,
+      "time_casa": "NAUTICO/PE",
+      "time_fora": "CRICIUMA/SC",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 25, "x": 30, "c2": 45 },
+      "palpite_ia": "COLUNA 2",
+      "analise": "O Criciúma vive uma fase estrutural e técnica superior, concentrando o favoritismo do mercado mesmo atuando como visitante nos Aflitos."
+    },
+    {
+      "posicao": 12,
+      "time_casa": "GOIAS/GO",
+      "time_fora": "AMERICA/MG",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 40, "x": 30, "c2": 30 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "Duelo bastante parelho. O fator clima e o mando de campo dão ao Goiás uma margem de segurança nas projeções contra a sempre organizada equipe do América."
+    },
+    {
+      "posicao": 13,
+      "time_casa": "INTERNACIONAL/RS",
+      "time_fora": "CHAPECOENSE/SC",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 65, "x": 20, "c2": 15 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "O maior favoritismo da rodada. O Colorado jogando no Beira-Rio tem ampla vantagem técnica e nas cotações contra uma Chapecoense em reestruturação."
+    },
+    {
+      "posicao": 14,
+      "time_casa": "VITORIA/BA",
+      "time_fora": "MIRASSOL/SP",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 45, "x": 30, "c2": 25 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "No Barradão, o Vitória costuma ser muito dominante e propositivo. O Mirassol é bem treinado, mas as estatísticas apontam favoritismo claro para os mandantes."
+    }
+  ]
 }
