@@ -1,5 +1,4 @@
 {
-  concurso": 1239,
   "concurso": "1239",
   "loteria": "loteca",
   "atualizado_em": "2026-03-26",
@@ -8,127 +7,127 @@
       "posicao": 1,
       "time_casa": "COLOMBIA",
       "time_fora": "FRANÇA",
-      "info": "Futebol Internacional",
+      "info": "Amistoso Internacional",
       "probabilidades": { "c1": 25, "x": 30, "c2": 45 },
-      "palpite_ia": "DUPLO (X2)",
-      "analise": "A França possui uma equipe tecnicamente superior e com mais tradição, entrando como favorita. A Colômbia, no entanto, é competitiva. Ideal para proteção dupla."
+      "palpite_ia": "COLUNA 2",
+      "analise": "Mesmo a Colômbia tendo uma seleção muito competitiva e física, a França possui um dos elencos mais qualificados do mundo. O favoritismo recai sobre os europeus."
     },
     {
       "posicao": 2,
       "time_casa": "CRB/AL",
       "time_fora": "VITORIA/BA",
-      "info": "Futebol Nacional",
+      "info": "Copa do Nordeste",
       "probabilidades": { "c1": 35, "x": 35, "c2": 30 },
       "palpite_ia": "DUPLO (1X)",
-      "analise": "Confronto muito equilibrado pelo futebol nordestino. O CRB joga em casa, o que lhe dá uma leve vantagem, mas o Vitória tem elenco para buscar ao menos um empate."
+      "analise": "O CRB é muito forte jogando no Rei Pelé e costuma engrossar contra times da Série A. O Vitória oscila fora de casa, o que torna a dupla chance mandante/empate uma boa pedida."
     },
     {
       "posicao": 3,
       "time_casa": "MARANHAO/MA",
       "time_fora": "FERROVIARIO/CE",
-      "info": "Futebol Nacional",
+      "info": "Copa do Nordeste",
       "probabilidades": { "c1": 30, "x": 35, "c2": 35 },
       "palpite_ia": "EMPATE",
-      "analise": "O Ferroviário costuma ter um time mais estruturado, mas o mando de campo do Maranhão equilibra as ações. Tendência forte de empate."
+      "analise": "Duelo muito equilibrado taticamente. Ambas as equipes têm mostrado dificuldades em impor ritmo ofensivo contra defesas fechadas. Tendência alta de empate."
     },
     {
       "posicao": 4,
       "time_casa": "RETRO BRASIL/PE",
       "time_fora": "CEARA/CE",
-      "info": "Futebol Nacional",
+      "info": "Copa do Nordeste",
       "probabilidades": { "c1": 20, "x": 30, "c2": 50 },
       "palpite_ia": "COLUNA 2",
-      "analise": "O Ceará é uma equipe de divisões superiores e com maior investimento. O Retrô é organizado, mas o favoritismo é claro para os visitantes."
+      "analise": "Apesar do projeto estruturado do Retrô, o Ceará possui uma folha salarial e peças individuais de um nível muito superior, sendo o claro favorito mesmo fora de casa."
     },
     {
       "posicao": 5,
       "time_casa": "FORTALEZA/CE",
       "time_fora": "IMPERATRIZ/MA",
-      "info": "Futebol Nacional",
+      "info": "Copa do Nordeste",
       "probabilidades": { "c1": 75, "x": 15, "c2": 10 },
       "palpite_ia": "COLUNA 1",
-      "analise": "O Fortaleza é o grande favorito neste duelo. Com um elenco de Série A e jogando em casa, as chances de uma zebra são muito baixas."
+      "analise": "O maior favoritismo da grade. O Fortaleza está em outro patamar competitivo na elite do futebol e jogando no Castelão a vitória é o cenário mais do que provável."
     },
     {
       "posicao": 6,
       "time_casa": "MEXICO",
       "time_fora": "PORTUGAL",
-      "info": "Futebol Internacional",
+      "info": "Amistoso Internacional",
       "probabilidades": { "c1": 25, "x": 30, "c2": 45 },
       "palpite_ia": "COLUNA 2",
-      "analise": "Portugal conta com jogadores de altíssimo nível no futebol europeu. O México é sempre um adversário duro, mas os portugueses levam vantagem técnica."
+      "analise": "O México passa por oscilações táticas, enquanto Portugal possui uma geração de ouro com muita criatividade no meio-campo e ataque. Vantagem para os portugueses."
     },
     {
       "posicao": 7,
       "time_casa": "ESTADOS UNIDOS",
       "time_fora": "BELGICA",
-      "info": "Futebol Internacional",
+      "info": "Amistoso Internacional",
       "probabilidades": { "c1": 30, "x": 30, "c2": 40 },
-      "palpite_ia": "DUPLO (X2)",
-      "analise": "A Bélgica tem uma geração talentosa. Os EUA vêm crescendo e jogam em casa, tornando o jogo perigoso, mas com leve vantagem belga, exigindo proteção."
+      "palpite_ia": "COLUNA 2",
+      "analise": "Os EUA têm evoluído com uma geração jovem e rápida, mas a escola belga ainda apresenta mais maturidade em jogos internacionais. Jogo parelho, com leve vantagem europeia."
     },
     {
       "posicao": 8,
       "time_casa": "LITUANIA",
       "time_fora": "GEORGIA",
-      "info": "Futebol Internacional",
-      "probabilidades": { "c1": 20, "x": 30, "c2": 50 },
+      "info": "Amistoso Internacional",
+      "probabilidades": { "c1": 15, "x": 25, "c2": 60 },
       "palpite_ia": "COLUNA 2",
-      "analise": "A Geórgia vem mostrando grande evolução recente no cenário europeu, liderada por bons destaques individuais. Favoritismo visitante."
+      "analise": "A Geórgia vem de uma excelente crescente no cenário europeu, liderada por craques que atuam nas principais ligas. A Lituânia é tecnicamente muito inferior."
     },
     {
       "posicao": 9,
       "time_casa": "JUAZEIRENSE/BA",
       "time_fora": "ITABAIANA/SE",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 45, "x": 35, "c2": 20 },
+      "info": "Copa do Nordeste",
+      "probabilidades": { "c1": 40, "x": 35, "c2": 25 },
       "palpite_ia": "COLUNA 1",
-      "analise": "A Juazeirense costuma ser muito forte jogando no Adauto Moraes. O Itabaiana terá dificuldades para impor seu jogo fora de casa."
+      "analise": "Jogo truncado, onde o mando de campo fará a diferença. A Juazeirense costuma usar bem o fator clima e torcida a seu favor contra times equivalentes como o Itabaiana."
     },
     {
       "posicao": 10,
       "time_casa": "ABC/RN",
       "time_fora": "SPORT/PE",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 25, "x": 35, "c2": 40 },
-      "palpite_ia": "DUPLO (X2)",
-      "analise": "O Sport possui um elenco mais caro e estruturado, entrando com favoritismo. O ABC tenta se apoiar na torcida para arrancar pontos."
+      "info": "Copa do Nordeste",
+      "probabilidades": { "c1": 25, "x": 30, "c2": 45 },
+      "palpite_ia": "COLUNA 2",
+      "analise": "O Sport montou um elenco visando o acesso na Série B e sobra técnica em jogos regionais. O ABC tenta se defender no Frasqueirão, mas o favoritismo é visitante."
     },
     {
       "posicao": 11,
       "time_casa": "CONFIANCA/SE",
       "time_fora": "FLUMINENSE/PI",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 55, "x": 25, "c2": 20 },
+      "info": "Copa do Nordeste",
+      "probabilidades": { "c1": 50, "x": 30, "c2": 20 },
       "palpite_ia": "COLUNA 1",
-      "analise": "O Confiança tem mais tradição em competições regionais e nacionais recentes. Jogando no Batistão, é o favorito contra o Fluminense-PI."
+      "analise": "O Confiança tem mais tradição na competição e atuações mais seguras diante de sua torcida no Batistão, sendo favorito contra o valente Fluminense-PI."
     },
     {
       "posicao": 12,
       "time_casa": "PIAUI ESP CLUBE/PI",
       "time_fora": "SOUSA/PB",
-      "info": "Futebol Nacional",
+      "info": "Copa do Nordeste",
       "probabilidades": { "c1": 30, "x": 35, "c2": 35 },
       "palpite_ia": "EMPATE",
-      "analise": "O Sousa fez boas campanhas recentes e chega com um time competitivo. Jogo nivelado, com leve inclinação para um empate no Piauí."
+      "analise": "O Sousa tem mostrado casca grossa em competições de mata-mata, mas atuando fora de casa tende a jogar por uma bola. Probabilidade alta de igualdade no placar."
     },
     {
       "posicao": 13,
       "time_casa": "ATHLETICO/PR",
       "time_fora": "BOTAFOGO/RJ",
       "info": "Futebol Nacional",
-      "probabilidades": { "c1": 45, "x": 30, "c2": 25 },
+      "probabilidades": { "c1": 40, "x": 30, "c2": 30 },
       "palpite_ia": "COLUNA 1",
-      "analise": "O Athletico na Ligga Arena é sempre um adversário duríssimo graças ao gramado sintético e à pressão da torcida. O Botafogo tem qualidade, mas o mando de campo pesa."
+      "analise": "Duelo de Série A de alta intensidade. O gramado sintético e a pressão da Ligga Arena sempre dão ao Athletico uma vantagem considerável contra o excelente time do Botafogo."
     },
     {
       "posicao": 14,
       "time_casa": "BOTAFOGO/PB",
       "time_fora": "ASA/AL",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 55, "x": 30, "c2": 15 },
+      "info": "Copa do Nordeste",
+      "probabilidades": { "c1": 55, "x": 25, "c2": 20 },
       "palpite_ia": "COLUNA 1",
-      "analise": "O Botafogo-PB tem se mantido competitivo na Série C e no cenário regional. Jogando no Almeidão, tem o favoritismo claro contra o ASA."
+      "analise": "O Botafogo-PB é muito consistente em João Pessoa e deve dominar as ações ofensivas contra um ASA que encontra dificuldades fora de Alagoas."
     }
   ]
 }
