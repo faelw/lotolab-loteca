@@ -1,104 +1,134 @@
 {
-  "concurso": "Proximo",
-  "valorApostaSimples": 4.00,
+  concurso": 1239,
+  "concurso": "1239",
+  "loteria": "loteca",
+  "atualizado_em": "2026-03-26",
   "jogos": [
     {
-      "jogo": 1,
-      "timeCasa": "COLOMBIA",
-      "timeVisitante": "FRANÇA",
-      "probabilidades": { "casa": 25, "empate": 30, "visitante": 45 },
-      "analiseIa": "A França possui uma equipe tecnicamente superior e com mais tradição, entrando como favorita. A Colômbia, no entanto, é competitiva e pode forçar um empate."
+      "posicao": 1,
+      "time_casa": "COLOMBIA",
+      "time_fora": "FRANÇA",
+      "info": "Futebol Internacional",
+      "probabilidades": { "c1": 25, "x": 30, "c2": 45 },
+      "palpite_ia": "DUPLO (X2)",
+      "analise": "A França possui uma equipe tecnicamente superior e com mais tradição, entrando como favorita. A Colômbia, no entanto, é competitiva. Ideal para proteção dupla."
     },
     {
-      "jogo": 2,
-      "timeCasa": "CRB/AL",
-      "timeVisitante": "VITORIA/BA",
-      "probabilidades": { "casa": 35, "empate": 35, "visitante": 30 },
-      "analiseIa": "Confronto muito equilibrado pelo futebol nordestino. O CRB joga em casa, o que lhe dá uma leve vantagem, mas o Vitória tem elenco para buscar ao menos um empate."
+      "posicao": 2,
+      "time_casa": "CRB/AL",
+      "time_fora": "VITORIA/BA",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 35, "x": 35, "c2": 30 },
+      "palpite_ia": "DUPLO (1X)",
+      "analise": "Confronto muito equilibrado pelo futebol nordestino. O CRB joga em casa, o que lhe dá uma leve vantagem, mas o Vitória tem elenco para buscar ao menos um empate."
     },
     {
-      "jogo": 3,
-      "timeCasa": "MARANHAO/MA",
-      "timeVisitante": "FERROVIARIO/CE",
-      "probabilidades": { "casa": 30, "empate": 35, "visitante": 35 },
-      "analiseIa": "O Ferroviário costuma ter um time mais estruturado nesta fase da temporada, mas o mando de campo do Maranhão equilibra as ações. Tendência forte de empate."
+      "posicao": 3,
+      "time_casa": "MARANHAO/MA",
+      "time_fora": "FERROVIARIO/CE",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 30, "x": 35, "c2": 35 },
+      "palpite_ia": "EMPATE",
+      "analise": "O Ferroviário costuma ter um time mais estruturado, mas o mando de campo do Maranhão equilibra as ações. Tendência forte de empate."
     },
     {
-      "jogo": 4,
-      "timeCasa": "RETRO BRASIL/PE",
-      "timeVisitante": "CEARA/CE",
-      "probabilidades": { "casa": 20, "empate": 30, "visitante": 50 },
-      "analiseIa": "O Ceará é uma equipe de divisões superiores e com maior investimento. O Retrô é organizado, mas o favoritismo é claro para os visitantes."
+      "posicao": 4,
+      "time_casa": "RETRO BRASIL/PE",
+      "time_fora": "CEARA/CE",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 20, "x": 30, "c2": 50 },
+      "palpite_ia": "COLUNA 2",
+      "analise": "O Ceará é uma equipe de divisões superiores e com maior investimento. O Retrô é organizado, mas o favoritismo é claro para os visitantes."
     },
     {
-      "jogo": 5,
-      "timeCasa": "FORTALEZA/CE",
-      "timeVisitante": "IMPERATRIZ/MA",
-      "probabilidades": { "casa": 75, "empate": 15, "visitante": 10 },
-      "analiseIa": "O Fortaleza é o grande favorito neste duelo. Com um elenco de Série A e jogando em casa, as chances de uma zebra são muito baixas."
+      "posicao": 5,
+      "time_casa": "FORTALEZA/CE",
+      "time_fora": "IMPERATRIZ/MA",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 75, "x": 15, "c2": 10 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "O Fortaleza é o grande favorito neste duelo. Com um elenco de Série A e jogando em casa, as chances de uma zebra são muito baixas."
     },
     {
-      "jogo": 6,
-      "timeCasa": "MEXICO",
-      "timeVisitante": "PORTUGAL",
-      "probabilidades": { "casa": 25, "empate": 30, "visitante": 45 },
-      "analiseIa": "Portugal conta com jogadores de altíssimo nível no futebol europeu. O México é sempre um adversário duro, mas os portugueses levam vantagem técnica."
+      "posicao": 6,
+      "time_casa": "MEXICO",
+      "time_fora": "PORTUGAL",
+      "info": "Futebol Internacional",
+      "probabilidades": { "c1": 25, "x": 30, "c2": 45 },
+      "palpite_ia": "COLUNA 2",
+      "analise": "Portugal conta com jogadores de altíssimo nível no futebol europeu. O México é sempre um adversário duro, mas os portugueses levam vantagem técnica."
     },
     {
-      "jogo": 7,
-      "timeCasa": "ESTADOS UNIDOS",
-      "timeVisitante": "BELGICA",
-      "probabilidades": { "casa": 30, "empate": 30, "visitante": 40 },
-      "analiseIa": "A Bélgica tem uma geração talentosa, embora em transição. Os EUA vêm crescendo e jogam em casa, tornando o jogo perigoso, mas com leve vantagem belga."
+      "posicao": 7,
+      "time_casa": "ESTADOS UNIDOS",
+      "time_fora": "BELGICA",
+      "info": "Futebol Internacional",
+      "probabilidades": { "c1": 30, "x": 30, "c2": 40 },
+      "palpite_ia": "DUPLO (X2)",
+      "analise": "A Bélgica tem uma geração talentosa. Os EUA vêm crescendo e jogam em casa, tornando o jogo perigoso, mas com leve vantagem belga, exigindo proteção."
     },
     {
-      "jogo": 8,
-      "timeCasa": "LITUANIA",
-      "timeVisitante": "GEORGIA",
-      "probabilidades": { "casa": 20, "empate": 30, "visitante": 50 },
-      "analiseIa": "A Geórgia vem mostrando grande evolução recente no cenário europeu, liderada por bons destaques individuais. Favoritismo visitante."
+      "posicao": 8,
+      "time_casa": "LITUANIA",
+      "time_fora": "GEORGIA",
+      "info": "Futebol Internacional",
+      "probabilidades": { "c1": 20, "x": 30, "c2": 50 },
+      "palpite_ia": "COLUNA 2",
+      "analise": "A Geórgia vem mostrando grande evolução recente no cenário europeu, liderada por bons destaques individuais. Favoritismo visitante."
     },
     {
-      "jogo": 9,
-      "timeCasa": "JUAZEIRENSE/BA",
-      "timeVisitante": "ITABAIANA/SE",
-      "probabilidades": { "casa": 45, "empate": 35, "visitante": 20 },
-      "analiseIa": "A Juazeirense costuma ser muito forte jogando no Adauto Moraes. O Itabaiana terá dificuldades para impor seu jogo fora de casa."
+      "posicao": 9,
+      "time_casa": "JUAZEIRENSE/BA",
+      "time_fora": "ITABAIANA/SE",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 45, "x": 35, "c2": 20 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "A Juazeirense costuma ser muito forte jogando no Adauto Moraes. O Itabaiana terá dificuldades para impor seu jogo fora de casa."
     },
     {
-      "jogo": 10,
-      "timeCasa": "ABC/RN",
-      "timeVisitante": "SPORT/PE",
-      "probabilidades": { "casa": 25, "empate": 35, "visitante": 40 },
-      "analiseIa": "O Sport possui um elenco mais caro e estruturado, entrando com favoritismo mesmo no Frasqueirão. O ABC tenta se apoiar na torcida para arrancar pontos."
+      "posicao": 10,
+      "time_casa": "ABC/RN",
+      "time_fora": "SPORT/PE",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 25, "x": 35, "c2": 40 },
+      "palpite_ia": "DUPLO (X2)",
+      "analise": "O Sport possui um elenco mais caro e estruturado, entrando com favoritismo. O ABC tenta se apoiar na torcida para arrancar pontos."
     },
     {
-      "jogo": 11,
-      "timeCasa": "CONFIANCA/SE",
-      "timeVisitante": "FLUMINENSE/PI",
-      "probabilidades": { "casa": 55, "empate": 25, "visitante": 20 },
-      "analiseIa": "O Confiança tem mais tradição em competições regionais e nacionais recentes. Jogando no Batistão, é o favorito contra o Fluminense-PI."
+      "posicao": 11,
+      "time_casa": "CONFIANCA/SE",
+      "time_fora": "FLUMINENSE/PI",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 55, "x": 25, "c2": 20 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "O Confiança tem mais tradição em competições regionais e nacionais recentes. Jogando no Batistão, é o favorito contra o Fluminense-PI."
     },
     {
-      "jogo": 12,
-      "timeCasa": "PIAUI ESP CLUBE/PI",
-      "timeVisitante": "SOUSA/PB",
-      "probabilidades": { "casa": 30, "empate": 35, "visitante": 35 },
-      "analiseIa": "O Sousa fez boas campanhas recentes e chega com um time competitivo. Jogo nivelado, com leve inclinação para os visitantes ou empate."
+      "posicao": 12,
+      "time_casa": "PIAUI ESP CLUBE/PI",
+      "time_fora": "SOUSA/PB",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 30, "x": 35, "c2": 35 },
+      "palpite_ia": "EMPATE",
+      "analise": "O Sousa fez boas campanhas recentes e chega com um time competitivo. Jogo nivelado, com leve inclinação para um empate no Piauí."
     },
     {
-      "jogo": 13,
-      "timeCasa": "ATHLETICO/PR",
-      "timeVisitante": "BOTAFOGO/RJ",
-      "probabilidades": { "casa": 45, "empate": 30, "visitante": 25 },
-      "analiseIa": "O Athletico na Ligga Arena é sempre um adversário duríssimo graças ao gramado sintético e à pressão da torcida. O Botafogo tem qualidade, mas o mando de campo pesa."
+      "posicao": 13,
+      "time_casa": "ATHLETICO/PR",
+      "time_fora": "BOTAFOGO/RJ",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 45, "x": 30, "c2": 25 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "O Athletico na Ligga Arena é sempre um adversário duríssimo graças ao gramado sintético e à pressão da torcida. O Botafogo tem qualidade, mas o mando de campo pesa."
     },
     {
-      "jogo": 14,
-      "timeCasa": "BOTAFOGO/PB",
-      "timeVisitante": "ASA/AL",
-      "probabilidades": { "casa": 55, "empate": 30, "visitante": 15 },
-      "analiseIa": "O Botafogo-PB tem se mantido competitivo na Série C e no cenário regional. Jogando no Almeidão, tem o favoritismo claro contra o ASA."
+      "posicao": 14,
+      "time_casa": "BOTAFOGO/PB",
+      "time_fora": "ASA/AL",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 55, "x": 30, "c2": 15 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "O Botafogo-PB tem se mantido competitivo na Série C e no cenário regional. Jogando no Almeidão, tem o favoritismo claro contra o ASA."
     }
   ]
 }
