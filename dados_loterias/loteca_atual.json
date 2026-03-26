@@ -1,133 +1,104 @@
 {
-  "concurso": "1238",
-  "loteria": "loteca",
-  "atualizado_em": "2026-03-19",
+  "concurso": "Proximo",
+  "valorApostaSimples": 4.00,
   "jogos": [
     {
-      "posicao": 1,
-      "time_casa": "CORINTHIANS/SP",
-      "time_fora": "FLAMENGO/RJ",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 30, "x": 30, "c2": 40 },
-      "palpite_ia": "DUPLO (X2)",
-      "analise": "O Flamengo chega com um elenco mais robusto e favoritismo nas odds, mas o Corinthians em casa costuma amarrar o jogo. A estatística aponta uma leve vantagem visitante, ideal para proteção dupla."
+      "jogo": 1,
+      "timeCasa": "COLOMBIA",
+      "timeVisitante": "FRANÇA",
+      "probabilidades": { "casa": 25, "empate": 30, "visitante": 45 },
+      "analiseIa": "A França possui uma equipe tecnicamente superior e com mais tradição, entrando como favorita. A Colômbia, no entanto, é competitiva e pode forçar um empate."
     },
     {
-      "posicao": 2,
-      "time_casa": "BRAGANTINO/SP",
-      "time_fora": "BOTAFOGO/RJ",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 35, "x": 30, "c2": 35 },
-      "palpite_ia": "EMPATE",
-      "analise": "Confronto de alto nível. O Botafogo tem mostrado excelente forma, mas o fator casa do Bragantino nivela as cotações no mercado. O empate é um cenário forte."
+      "jogo": 2,
+      "timeCasa": "CRB/AL",
+      "timeVisitante": "VITORIA/BA",
+      "probabilidades": { "casa": 35, "empate": 35, "visitante": 30 },
+      "analiseIa": "Confronto muito equilibrado pelo futebol nordestino. O CRB joga em casa, o que lhe dá uma leve vantagem, mas o Vitória tem elenco para buscar ao menos um empate."
     },
     {
-      "posicao": 3,
-      "time_casa": "FLUMINENSE/RJ",
-      "time_fora": "ATLETICO/MG",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 38, "x": 30, "c2": 32 },
-      "palpite_ia": "COLUNA 1",
-      "analise": "Times muito ofensivos. O Fluminense no Maracanã carrega uma ligeira vantagem nas projeções estatísticas, embora o Galo tenha poder de fogo para surpreender."
+      "jogo": 3,
+      "timeCasa": "MARANHAO/MA",
+      "timeVisitante": "FERROVIARIO/CE",
+      "probabilidades": { "casa": 30, "empate": 35, "visitante": 35 },
+      "analiseIa": "O Ferroviário costuma ter um time mais estruturado nesta fase da temporada, mas o mando de campo do Maranhão equilibra as ações. Tendência forte de empate."
     },
     {
-      "posicao": 4,
-      "time_casa": "BOTAFOGO/SP",
-      "time_fora": "FORTALEZA/CE",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 20, "x": 25, "c2": 55 },
-      "palpite_ia": "COLUNA 2",
-      "analise": "Diferença técnica clara nas divisões. O Fortaleza tem amplo favoritismo contra o Botafogo-SP, refletindo uma forte tendência na Coluna 2 nas casas de apostas."
+      "jogo": 4,
+      "timeCasa": "RETRO BRASIL/PE",
+      "timeVisitante": "CEARA/CE",
+      "probabilidades": { "casa": 20, "empate": 30, "visitante": 50 },
+      "analiseIa": "O Ceará é uma equipe de divisões superiores e com maior investimento. O Retrô é organizado, mas o favoritismo é claro para os visitantes."
     },
     {
-      "posicao": 5,
-      "time_casa": "CUIABA/MT",
-      "time_fora": "SPORT/PE",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 45, "x": 30, "c2": 25 },
-      "palpite_ia": "COLUNA 1",
-      "analise": "Jogando na Arena Pantanal, o Cuiabá costuma impor um ritmo intenso. Os dados dão vantagem aos mandantes contra um Sport que oscila em jogos fora de casa."
+      "jogo": 5,
+      "timeCasa": "FORTALEZA/CE",
+      "timeVisitante": "IMPERATRIZ/MA",
+      "probabilidades": { "casa": 75, "empate": 15, "visitante": 10 },
+      "analiseIa": "O Fortaleza é o grande favorito neste duelo. Com um elenco de Série A e jogando em casa, as chances de uma zebra são muito baixas."
     },
     {
-      "posicao": 6,
-      "time_casa": "SAO PAULO/SP",
-      "time_fora": "PALMEIRAS/SP",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 33, "x": 34, "c2": 33 },
-      "palpite_ia": "DUPLO (1X)",
-      "analise": "Choque-Rei. Um clássico com odds extremamente parelhas no mercado de apostas. O alto grau de equilíbrio tático sugere uma forte probabilidade de igualdade ou leve vantagem ao mandante."
+      "jogo": 6,
+      "timeCasa": "MEXICO",
+      "timeVisitante": "PORTUGAL",
+      "probabilidades": { "casa": 25, "empate": 30, "visitante": 45 },
+      "analiseIa": "Portugal conta com jogadores de altíssimo nível no futebol europeu. O México é sempre um adversário duro, mas os portugueses levam vantagem técnica."
     },
     {
-      "posicao": 7,
-      "time_casa": "ATHLETICO/PR",
-      "time_fora": "CORITIBA/PR",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 55, "x": 25, "c2": 20 },
-      "palpite_ia": "COLUNA 1",
-      "analise": "Atletiba. O Furacão possui um elenco superior atualmente e o mando de campo na Ligga Arena pesa muito a seu favor nas probabilidades analíticas."
+      "jogo": 7,
+      "timeCasa": "ESTADOS UNIDOS",
+      "timeVisitante": "BELGICA",
+      "probabilidades": { "casa": 30, "empate": 30, "visitante": 40 },
+      "analiseIa": "A Bélgica tem uma geração talentosa, embora em transição. Os EUA vêm crescendo e jogam em casa, tornando o jogo perigoso, mas com leve vantagem belga."
     },
     {
-      "posicao": 8,
-      "time_casa": "CRUZEIRO/MG",
-      "time_fora": "SANTOS/SP",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 40, "x": 30, "c2": 30 },
-      "palpite_ia": "COLUNA 1",
-      "analise": "Confronto de camisas pesadas. O Cruzeiro detém um leve favoritismo sustentado pelo mando no Mineirão, enquanto o Santos tenta buscar pontos reativos."
+      "jogo": 8,
+      "timeCasa": "LITUANIA",
+      "timeVisitante": "GEORGIA",
+      "probabilidades": { "casa": 20, "empate": 30, "visitante": 50 },
+      "analiseIa": "A Geórgia vem mostrando grande evolução recente no cenário europeu, liderada por bons destaques individuais. Favoritismo visitante."
     },
     {
-      "posicao": 9,
-      "time_casa": "VASCO DA GAMA/RJ",
-      "time_fora": "GREMIO/RS",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 35, "x": 35, "c2": 30 },
-      "palpite_ia": "DUPLO (1X)",
-      "analise": "Jogo duro. O Vasco se apoia fortemente na pressão de São Januário, mas o Grêmio é um visitante estrategicamente perigoso. Projeção pede dupla chance."
+      "jogo": 9,
+      "timeCasa": "JUAZEIRENSE/BA",
+      "timeVisitante": "ITABAIANA/SE",
+      "probabilidades": { "casa": 45, "empate": 35, "visitante": 20 },
+      "analiseIa": "A Juazeirense costuma ser muito forte jogando no Adauto Moraes. O Itabaiana terá dificuldades para impor seu jogo fora de casa."
     },
     {
-      "posicao": 10,
-      "time_casa": "AVAI/SC",
-      "time_fora": "JUVENTUDE/RS",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 35, "x": 35, "c2": 30 },
-      "palpite_ia": "DUPLO (1X)",
-      "analise": "O Juventude vem de campanhas mais consistentes na elite, mas a Ressacada atua como um trunfo para o Avaí. A projeção aponta para um duelo amarrado, favorecendo os donos da casa ou empate."
+      "jogo": 10,
+      "timeCasa": "ABC/RN",
+      "timeVisitante": "SPORT/PE",
+      "probabilidades": { "casa": 25, "empate": 35, "visitante": 40 },
+      "analiseIa": "O Sport possui um elenco mais caro e estruturado, entrando com favoritismo mesmo no Frasqueirão. O ABC tenta se apoiar na torcida para arrancar pontos."
     },
     {
-      "posicao": 11,
-      "time_casa": "NAUTICO/PE",
-      "time_fora": "CRICIUMA/SC",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 25, "x": 30, "c2": 45 },
-      "palpite_ia": "COLUNA 2",
-      "analise": "O Criciúma vive uma fase estrutural e técnica superior, concentrando o favoritismo do mercado mesmo atuando como visitante nos Aflitos."
+      "jogo": 11,
+      "timeCasa": "CONFIANCA/SE",
+      "timeVisitante": "FLUMINENSE/PI",
+      "probabilidades": { "casa": 55, "empate": 25, "visitante": 20 },
+      "analiseIa": "O Confiança tem mais tradição em competições regionais e nacionais recentes. Jogando no Batistão, é o favorito contra o Fluminense-PI."
     },
     {
-      "posicao": 12,
-      "time_casa": "GOIAS/GO",
-      "time_fora": "AMERICA/MG",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 40, "x": 30, "c2": 30 },
-      "palpite_ia": "COLUNA 1",
-      "analise": "Duelo bastante parelho. O fator clima e o mando de campo dão ao Goiás uma margem de segurança nas projeções contra a sempre organizada equipe do América."
+      "jogo": 12,
+      "timeCasa": "PIAUI ESP CLUBE/PI",
+      "timeVisitante": "SOUSA/PB",
+      "probabilidades": { "casa": 30, "empate": 35, "visitante": 35 },
+      "analiseIa": "O Sousa fez boas campanhas recentes e chega com um time competitivo. Jogo nivelado, com leve inclinação para os visitantes ou empate."
     },
     {
-      "posicao": 13,
-      "time_casa": "INTERNACIONAL/RS",
-      "time_fora": "CHAPECOENSE/SC",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 65, "x": 20, "c2": 15 },
-      "palpite_ia": "COLUNA 1",
-      "analise": "O maior favoritismo da rodada. O Colorado jogando no Beira-Rio tem ampla vantagem técnica e nas cotações contra uma Chapecoense em reestruturação."
+      "jogo": 13,
+      "timeCasa": "ATHLETICO/PR",
+      "timeVisitante": "BOTAFOGO/RJ",
+      "probabilidades": { "casa": 45, "empate": 30, "visitante": 25 },
+      "analiseIa": "O Athletico na Ligga Arena é sempre um adversário duríssimo graças ao gramado sintético e à pressão da torcida. O Botafogo tem qualidade, mas o mando de campo pesa."
     },
     {
-      "posicao": 14,
-      "time_casa": "VITORIA/BA",
-      "time_fora": "MIRASSOL/SP",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 45, "x": 30, "c2": 25 },
-      "palpite_ia": "COLUNA 1",
-      "analise": "No Barradão, o Vitória costuma ser muito dominante e propositivo. O Mirassol é bem treinado, mas as estatísticas apontam favoritismo claro para os mandantes."
+      "jogo": 14,
+      "timeCasa": "BOTAFOGO/PB",
+      "timeVisitante": "ASA/AL",
+      "probabilidades": { "casa": 55, "empate": 30, "visitante": 15 },
+      "analiseIa": "O Botafogo-PB tem se mantido competitivo na Série C e no cenário regional. Jogando no Almeidão, tem o favoritismo claro contra o ASA."
     }
   ]
 }
