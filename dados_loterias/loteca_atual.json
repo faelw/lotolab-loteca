@@ -1,133 +1,133 @@
 {
-  "concurso": "1239",
+  "concurso": "1242",
   "loteria": "loteca",
-  "atualizado_em": "2026-03-26",
+  "atualizado_em": "2026-04-09",
   "jogos": [
     {
       "posicao": 1,
-      "time_casa": "COLOMBIA",
-      "time_fora": "FRANÇA",
-      "info": "Amistoso Internacional",
-      "probabilidades": { "c1": 25, "x": 30, "c2": 45 },
+      "time_casa": "FLUMINENSE/RJ",
+      "time_fora": "FLAMENGO/RJ",
+      "info": "Clássico Estadual/Nacional",
+      "probabilidades": { "c1": 30, "x": 30, "c2": 40 },
       "palpite_ia": "COLUNA 2",
-      "analise": "Mesmo a Colômbia tendo uma seleção muito competitiva e física, a França possui um dos elencos mais qualificados do mundo. O favoritismo recai sobre os europeus."
+      "analise": "O clássico Fla-Flu é sempre imprevisível e disputado palmo a palmo. No entanto, o Flamengo detém um elenco com maior profundidade, peças de reposição e poder de decisão, justificando um leve favoritismo mesmo em clássicos."
     },
     {
       "posicao": 2,
-      "time_casa": "CRB/AL",
-      "time_fora": "VITORIA/BA",
-      "info": "Copa do Nordeste",
-      "probabilidades": { "c1": 35, "x": 35, "c2": 30 },
-      "palpite_ia": "DUPLO (1X)",
-      "analise": "O CRB é muito forte jogando no Rei Pelé e costuma engrossar contra times da Série A. O Vitória oscila fora de casa, o que torna a dupla chance mandante/empate uma boa pedida."
+      "time_casa": "JUVENTUDE/RS",
+      "time_fora": "GOIAS/GO",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 45, "x": 30, "c2": 25 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "No Alfredo Jaconi, o Juventude é historicamente um adversário encardido. O clima, a pressão da torcida e a adaptação ao gramado dão vantagem aos gaúchos frente a um Goiás que costuma oscilar fora de seus domínios."
     },
     {
       "posicao": 3,
-      "time_casa": "MARANHAO/MA",
-      "time_fora": "FERROVIARIO/CE",
-      "info": "Copa do Nordeste",
-      "probabilidades": { "c1": 30, "x": 35, "c2": 35 },
-      "palpite_ia": "EMPATE",
-      "analise": "Duelo muito equilibrado taticamente. Ambas as equipes têm mostrado dificuldades em impor ritmo ofensivo contra defesas fechadas. Tendência alta de empate."
+      "time_casa": "REMO/PA",
+      "time_fora": "VASCO DA GAMA/RJ",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 25, "x": 30, "c2": 45 },
+      "palpite_ia": "COLUNA 2",
+      "analise": "Mesmo com o Remo jogando em casa e empurrado por sua fanática torcida, a diferença técnica e orçamentária para o Vasco da Gama é significativa. A equipe carioca possui o favoritismo do confronto."
     },
     {
       "posicao": 4,
-      "time_casa": "RETRO BRASIL/PE",
-      "time_fora": "CEARA/CE",
-      "info": "Copa do Nordeste",
-      "probabilidades": { "c1": 20, "x": 30, "c2": 50 },
-      "palpite_ia": "COLUNA 2",
-      "analise": "Apesar do projeto estruturado do Retrô, o Ceará possui uma folha salarial e peças individuais de um nível muito superior, sendo o claro favorito mesmo fora de casa."
+      "time_casa": "VITORIA/BA",
+      "time_fora": "SAO PAULO/SP",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 30, "x": 35, "c2": 35 },
+      "palpite_ia": "EMPATE",
+      "analise": "O Vitória no Barradão impõe muita intensidade e fisicalidade. O São Paulo tem mais qualidade técnica, mas costuma sofrer como visitante no Nordeste contra times bem fechados. Forte tendência de igualdade."
     },
     {
       "posicao": 5,
-      "time_casa": "FORTALEZA/CE",
-      "time_fora": "IMPERATRIZ/MA",
-      "info": "Copa do Nordeste",
-      "probabilidades": { "c1": 75, "x": 15, "c2": 10 },
+      "time_casa": "SPORT/PE",
+      "time_fora": "AVAI/SC",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 50, "x": 30, "c2": 20 },
       "palpite_ia": "COLUNA 1",
-      "analise": "O maior favoritismo da grade. O Fortaleza está em outro patamar competitivo na elite do futebol e jogando no Castelão a vitória é o cenário mais do que provável."
+      "analise": "O Sport é tradicionalmente dominante quando atua na Ilha do Retiro. O Avaí apresenta oscilações no sistema defensivo em jogos fora de casa, o que favorece muito a vitória do Leão pernambucano."
     },
     {
       "posicao": 6,
-      "time_casa": "MEXICO",
-      "time_fora": "PORTUGAL",
-      "info": "Amistoso Internacional",
+      "time_casa": "MIRASSOL/SP",
+      "time_fora": "BAHIA/BA",
+      "info": "Futebol Nacional",
       "probabilidades": { "c1": 25, "x": 30, "c2": 45 },
       "palpite_ia": "COLUNA 2",
-      "analise": "O México passa por oscilações táticas, enquanto Portugal possui uma geração de ouro com muita criatividade no meio-campo e ataque. Vantagem para os portugueses."
+      "analise": "O Mirassol é uma equipe taticamente muito bem organizada, mas o Bahia, impulsionado pelos fortes investimentos, possui um elenco superior. A qualidade individual do Tricolor baiano deve sobressair no interior paulista."
     },
     {
       "posicao": 7,
-      "time_casa": "ESTADOS UNIDOS",
-      "time_fora": "BELGICA",
-      "info": "Amistoso Internacional",
+      "time_casa": "SANTOS/SP",
+      "time_fora": "ATLETICO/MG",
+      "info": "Futebol Nacional",
       "probabilidades": { "c1": 30, "x": 30, "c2": 40 },
       "palpite_ia": "COLUNA 2",
-      "analise": "Os EUA têm evoluído com uma geração jovem e rápida, mas a escola belga ainda apresenta mais maturidade em jogos internacionais. Jogo parelho, com leve vantagem europeia."
+      "analise": "O Santos tenta usar o alçapão da Vila Belmiro a seu favor, mas o Atlético-MG tem um meio-campo muito criativo e um ataque letal. É um jogo duro, mas com uma leve vantagem técnica para os visitantes mineiros."
     },
     {
       "posicao": 8,
-      "time_casa": "LITUANIA",
-      "time_fora": "GEORGIA",
-      "info": "Amistoso Internacional",
-      "probabilidades": { "c1": 15, "x": 25, "c2": 60 },
-      "palpite_ia": "COLUNA 2",
-      "analise": "A Geórgia vem de uma excelente crescente no cenário europeu, liderada por craques que atuam nas principais ligas. A Lituânia é tecnicamente muito inferior."
+      "time_casa": "INTERNACIONAL/RS",
+      "time_fora": "GREMIO/RS",
+      "info": "Clássico Estadual/Nacional",
+      "probabilidades": { "c1": 35, "x": 35, "c2": 30 },
+      "palpite_ia": "EMPATE",
+      "analise": "O Gre-Nal é sempre um campeonato à parte, com muita tensão envolvida. O Inter tem a força do Beira-Rio, mas os clássicos gaúchos tendem a ser extremamente estudados, físicos e truncados. A probabilidade de empate é altíssima."
     },
     {
       "posicao": 9,
-      "time_casa": "JUAZEIRENSE/BA",
-      "time_fora": "ITABAIANA/SE",
-      "info": "Copa do Nordeste",
-      "probabilidades": { "c1": 40, "x": 35, "c2": 25 },
+      "time_casa": "CEARA/CE",
+      "time_fora": "NAUTICO/PE",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 55, "x": 25, "c2": 20 },
       "palpite_ia": "COLUNA 1",
-      "analise": "Jogo truncado, onde o mando de campo fará a diferença. A Juazeirense costuma usar bem o fator clima e torcida a seu favor contra times equivalentes como o Itabaiana."
+      "analise": "O Ceará atuando no Castelão costuma asfixiar os adversários nordestinos e tem um projeto mais estruturado que o Náutico atualmente. O Vozão assume o claro favoritismo do confronto em casa."
     },
     {
       "posicao": 10,
-      "time_casa": "ABC/RN",
-      "time_fora": "SPORT/PE",
-      "info": "Copa do Nordeste",
-      "probabilidades": { "c1": 25, "x": 30, "c2": 45 },
-      "palpite_ia": "COLUNA 2",
-      "analise": "O Sport montou um elenco visando o acesso na Série B e sobra técnica em jogos regionais. O ABC tenta se defender no Frasqueirão, mas o favoritismo é visitante."
+      "time_casa": "ATHLETICO/PR",
+      "time_fora": "CHAPECOENSE/SC",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 65, "x": 20, "c2": 15 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "Jogando na Ligga Arena, com o gramado sintético e a pressão da torcida, o Athletico-PR é praticamente letal. A Chapecoense terá muitas dificuldades e deve passar a maior parte do jogo se defendendo."
     },
     {
       "posicao": 11,
-      "time_casa": "CONFIANCA/SE",
-      "time_fora": "FLUMINENSE/PI",
-      "info": "Copa do Nordeste",
-      "probabilidades": { "c1": 50, "x": 30, "c2": 20 },
+      "time_casa": "BOTAFOGO/RJ",
+      "time_fora": "CORITIBA/PR",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 60, "x": 25, "c2": 15 },
       "palpite_ia": "COLUNA 1",
-      "analise": "O Confiança tem mais tradição na competição e atuações mais seguras diante de sua torcida no Batistão, sendo favorito contra o valente Fluminense-PI."
+      "analise": "O Botafogo tem feito do Nilton Santos uma verdadeira fortaleza nos últimos anos. O Coritiba possui um retrospecto ruim como visitante em solo carioca, deixando o Alvinegro como amplo favorito."
     },
     {
       "posicao": 12,
-      "time_casa": "PIAUI ESP CLUBE/PI",
-      "time_fora": "SOUSA/PB",
-      "info": "Copa do Nordeste",
-      "probabilidades": { "c1": 30, "x": 35, "c2": 35 },
-      "palpite_ia": "EMPATE",
-      "analise": "O Sousa tem mostrado casca grossa em competições de mata-mata, mas atuando fora de casa tende a jogar por uma bola. Probabilidade alta de igualdade no placar."
+      "time_casa": "AMERICA/MG",
+      "time_fora": "NOVORIZONTINO/SP",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 45, "x": 30, "c2": 25 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "O América-MG no Independência costuma ditar o ritmo e ter o controle da posse de bola. O Novorizontino é um time tático e muito perigoso nos contra-ataques, mas o Coelho mantém a superioridade no duelo."
     },
     {
       "posicao": 13,
-      "time_casa": "ATHLETICO/PR",
-      "time_fora": "BOTAFOGO/RJ",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 40, "x": 30, "c2": 30 },
-      "palpite_ia": "COLUNA 1",
-      "analise": "Duelo de Série A de alta intensidade. O gramado sintético e a pressão da Ligga Arena sempre dão ao Athletico uma vantagem considerável contra o excelente time do Botafogo."
+      "time_casa": "CORINTHIANS/SP",
+      "time_fora": "PALMEIRAS/SP",
+      "info": "Clássico Estadual/Nacional",
+      "probabilidades": { "c1": 30, "x": 30, "c2": 40 },
+      "palpite_ia": "COLUNA 2",
+      "analise": "O Derby Paulista opõe a tradicional garra corintiana em Itaquera à maturidade do Palmeiras. O Alviverde tem apresentado times taticamente mais sólidos nos últimos anos e entra com leve favoritismo, mesmo fora."
     },
     {
       "posicao": 14,
-      "time_casa": "BOTAFOGO/PB",
-      "time_fora": "ASA/AL",
-      "info": "Copa do Nordeste",
-      "probabilidades": { "c1": 55, "x": 25, "c2": 20 },
+      "time_casa": "CRUZEIRO/MG",
+      "time_fora": "BRAGANTINO/SP",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 40, "x": 30, "c2": 30 },
       "palpite_ia": "COLUNA 1",
-      "analise": "O Botafogo-PB é muito consistente em João Pessoa e deve dominar as ações ofensivas contra um ASA que encontra dificuldades fora de Alagoas."
+      "analise": "No Mineirão, o Cruzeiro tenta se impor através do volume de jogo. O Red Bull Bragantino é muito intenso e especialista em transições. É um confronto muito equilibrado, mas com ligeira vantagem celeste pelo mando."
     }
   ]
 }
