@@ -1,133 +1,133 @@
 {
-  "concurso": "1242",
+  "concurso": "1243",
   "loteria": "loteca",
-  "atualizado_em": "2026-04-09",
+  "atualizado_em": "2026-04-13",
   "jogos": [
     {
       "posicao": 1,
-      "time_casa": "FLUMINENSE/RJ",
-      "time_fora": "FLAMENGO/RJ",
-      "info": "Clássico Estadual/Nacional",
-      "probabilidades": { "c1": 30, "x": 30, "c2": 40 },
-      "palpite_ia": "COLUNA 2",
-      "analise": "O clássico Fla-Flu é sempre imprevisível e disputado palmo a palmo. No entanto, o Flamengo detém um elenco com maior profundidade, peças de reposição e poder de decisão, justificando um leve favoritismo mesmo em clássicos."
+      "time_casa": "CORINTHIANS/SP",
+      "time_fora": "SANTA FE/COL",
+      "info": "Competição Sul-Americana",
+      "probabilidades": { "c1": 55, "x": 25, "c2": 20 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "Jogando na Neo Química Arena, o Corinthians costuma impor um ritmo forte e usar o apoio da torcida para sufocar os adversários. O Santa Fe é uma equipe tradicional, mas tem dificuldades como visitante no Brasil."
     },
     {
       "posicao": 2,
-      "time_casa": "JUVENTUDE/RS",
-      "time_fora": "GOIAS/GO",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 45, "x": 30, "c2": 25 },
-      "palpite_ia": "COLUNA 1",
-      "analise": "No Alfredo Jaconi, o Juventude é historicamente um adversário encardido. O clima, a pressão da torcida e a adaptação ao gramado dão vantagem aos gaúchos frente a um Goiás que costuma oscilar fora de seus domínios."
+      "time_casa": "CERRO PORTENO/PRY",
+      "time_fora": "JR BARRANQUILLA/COL",
+      "info": "Competição Sul-Americana",
+      "probabilidades": { "c1": 40, "x": 35, "c2": 25 },
+      "palpite_ia": "EMPATE",
+      "analise": "Um confronto muito equilibrado. O Cerro Porteño é forte no La Olla, mas o Junior Barranquilla possui um time reativo perigoso, com muita velocidade nos contra-ataques. Forte tendência de igualdade."
     },
     {
       "posicao": 3,
-      "time_casa": "REMO/PA",
-      "time_fora": "VASCO DA GAMA/RJ",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 25, "x": 30, "c2": 45 },
-      "palpite_ia": "COLUNA 2",
-      "analise": "Mesmo com o Remo jogando em casa e empurrado por sua fanática torcida, a diferença técnica e orçamentária para o Vasco da Gama é significativa. A equipe carioca possui o favoritismo do confronto."
+      "time_casa": "ESTUDIANTES/ARG",
+      "time_fora": "CUSCO/PER",
+      "info": "Competição Sul-Americana",
+      "probabilidades": { "c1": 70, "x": 20, "c2": 10 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "O Estudiantes é copeiro e imensamente superior tecnicamente. O Cusco perde sua principal arma (a altitude) jogando na Argentina e deve sofrer grande pressão desde o início."
     },
     {
       "posicao": 4,
-      "time_casa": "VITORIA/BA",
-      "time_fora": "SAO PAULO/SP",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 30, "x": 35, "c2": 35 },
-      "palpite_ia": "EMPATE",
-      "analise": "O Vitória no Barradão impõe muita intensidade e fisicalidade. O São Paulo tem mais qualidade técnica, mas costuma sofrer como visitante no Nordeste contra times bem fechados. Forte tendência de igualdade."
+      "time_casa": "NACIONAL/URY",
+      "time_fora": "TOLIMA/COL",
+      "info": "Competição Sul-Americana",
+      "probabilidades": { "c1": 50, "x": 30, "c2": 20 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "O Nacional faz do Gran Parque Central um caldeirão. Apesar do Tolima ser um visitante incômodo e fisicamente forte, o time uruguaio leva vantagem pelo mando de campo e tradição."
     },
     {
       "posicao": 5,
-      "time_casa": "SPORT/PE",
-      "time_fora": "AVAI/SC",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 50, "x": 30, "c2": 20 },
+      "time_casa": "GREMIO/RS",
+      "time_fora": "DEPORTIVO RIESTRA/ARG",
+      "info": "Competição Sul-Americana",
+      "probabilidades": { "c1": 75, "x": 15, "c2": 10 },
       "palpite_ia": "COLUNA 1",
-      "analise": "O Sport é tradicionalmente dominante quando atua na Ilha do Retiro. O Avaí apresenta oscilações no sistema defensivo em jogos fora de casa, o que favorece muito a vitória do Leão pernambucano."
+      "analise": "Diferença abissal de investimento e qualidade técnica. O Grêmio, jogando em sua Arena, é o grande favorito contra a modesta equipe do Deportivo Riestra."
     },
     {
       "posicao": 6,
-      "time_casa": "MIRASSOL/SP",
-      "time_fora": "BAHIA/BA",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 25, "x": 30, "c2": 45 },
-      "palpite_ia": "COLUNA 2",
-      "analise": "O Mirassol é uma equipe taticamente muito bem organizada, mas o Bahia, impulsionado pelos fortes investimentos, possui um elenco superior. A qualidade individual do Tricolor baiano deve sobressair no interior paulista."
+      "time_casa": "SAO PAULO/SP",
+      "time_fora": "DEP OHIGGINS/CHL",
+      "info": "Competição Sul-Americana",
+      "probabilidades": { "c1": 65, "x": 20, "c2": 15 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "O São Paulo é muito sólido atuando no MorumBIS em noites de copa. O O'Higgins deve adotar uma postura totalmente defensiva, mas dificilmente segurará o ímpeto tricolor."
     },
     {
       "posicao": 7,
-      "time_casa": "SANTOS/SP",
-      "time_fora": "ATLETICO/MG",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 30, "x": 30, "c2": 40 },
-      "palpite_ia": "COLUNA 2",
-      "analise": "O Santos tenta usar o alçapão da Vila Belmiro a seu favor, mas o Atlético-MG tem um meio-campo muito criativo e um ataque letal. É um jogo duro, mas com uma leve vantagem técnica para os visitantes mineiros."
+      "time_casa": "BOCA JUNIORS/ARG",
+      "time_fora": "BARCELONA/ECU",
+      "info": "Competição Sul-Americana",
+      "probabilidades": { "c1": 55, "x": 30, "c2": 15 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "A mística da Bombonera sempre pesa a favor do Boca Juniors. O Barcelona de Guayaquil é um time qualificado, mas o fator casa coloca os argentinos como favoritos neste embate."
     },
     {
       "posicao": 8,
-      "time_casa": "INTERNACIONAL/RS",
-      "time_fora": "GREMIO/RS",
-      "info": "Clássico Estadual/Nacional",
-      "probabilidades": { "c1": 35, "x": 35, "c2": 30 },
-      "palpite_ia": "EMPATE",
-      "analise": "O Gre-Nal é sempre um campeonato à parte, com muita tensão envolvida. O Inter tem a força do Beira-Rio, mas os clássicos gaúchos tendem a ser extremamente estudados, físicos e truncados. A probabilidade de empate é altíssima."
+      "time_casa": "VASCO DA GAMA/RJ",
+      "time_fora": "AUDAX ITALIANO/CHL",
+      "info": "Competição Sul-Americana",
+      "probabilidades": { "c1": 60, "x": 25, "c2": 15 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "O caldeirão de São Januário costuma ser um diferencial. O Vasco tem um time superior técnica e fisicamente em relação ao Audax Italiano, justificando o favoritismo na coluna 1."
     },
     {
       "posicao": 9,
-      "time_casa": "CEARA/CE",
-      "time_fora": "NAUTICO/PE",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 55, "x": 25, "c2": 20 },
+      "time_casa": "SANTOS/SP",
+      "time_fora": "DEP RECOLETA/PRY",
+      "info": "Competição Sul-Americana",
+      "probabilidades": { "c1": 70, "x": 20, "c2": 10 },
       "palpite_ia": "COLUNA 1",
-      "analise": "O Ceará atuando no Castelão costuma asfixiar os adversários nordestinos e tem um projeto mais estruturado que o Náutico atualmente. O Vozão assume o claro favoritismo do confronto em casa."
+      "analise": "Jogando na Vila Belmiro, o Santos é amplamente favorito contra o modesto Deportivo Recoleta. A expectativa é de um jogo de ataque contra defesa, com superioridade alvinegra."
     },
     {
       "posicao": 10,
-      "time_casa": "ATHLETICO/PR",
-      "time_fora": "CHAPECOENSE/SC",
-      "info": "Futebol Nacional",
+      "time_casa": "LDU/ECU",
+      "time_fora": "MIRASSOL/SP",
+      "info": "Competição Sul-Americana",
       "probabilidades": { "c1": 65, "x": 20, "c2": 15 },
       "palpite_ia": "COLUNA 1",
-      "analise": "Jogando na Ligga Arena, com o gramado sintético e a pressão da torcida, o Athletico-PR é praticamente letal. A Chapecoense terá muitas dificuldades e deve passar a maior parte do jogo se defendendo."
+      "analise": "A LDU é um adversário terrível jogando na elevada altitude de Quito (2.850m). O Mirassol, mesmo sendo organizado taticamente, sofrerá muito com os efeitos físicos e a velocidade da bola."
     },
     {
       "posicao": 11,
-      "time_casa": "BOTAFOGO/RJ",
-      "time_fora": "CORITIBA/PR",
-      "info": "Futebol Nacional",
+      "time_casa": "CRUZEIRO/MG",
+      "time_fora": "UNIVERS CATOLICA/CHL",
+      "info": "Competição Sul-Americana",
       "probabilidades": { "c1": 60, "x": 25, "c2": 15 },
       "palpite_ia": "COLUNA 1",
-      "analise": "O Botafogo tem feito do Nilton Santos uma verdadeira fortaleza nos últimos anos. O Coritiba possui um retrospecto ruim como visitante em solo carioca, deixando o Alvinegro como amplo favorito."
+      "analise": "O Cruzeiro tem feito valer o mando de campo no Mineirão. A Universidad Católica possui tradição, mas o volume de jogo e a intensidade do time brasileiro devem ditar o ritmo da partida."
     },
     {
       "posicao": 12,
-      "time_casa": "AMERICA/MG",
-      "time_fora": "NOVORIZONTINO/SP",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 45, "x": 30, "c2": 25 },
-      "palpite_ia": "COLUNA 1",
-      "analise": "O América-MG no Independência costuma ditar o ritmo e ter o controle da posse de bola. O Novorizontino é um time tático e muito perigoso nos contra-ataques, mas o Coelho mantém a superioridade no duelo."
+      "time_casa": "LIBERTAD/PRY",
+      "time_fora": "ROSARIO CENTRAL/ARG",
+      "info": "Competição Sul-Americana",
+      "probabilidades": { "c1": 40, "x": 35, "c2": 25 },
+      "palpite_ia": "EMPATE",
+      "analise": "Duelo duríssimo. O Libertad é experiente e forte em casa, mas o Rosario Central é um time aguerrido e muito difícil de ser batido. Um empate é um resultado altamente provável."
     },
     {
       "posicao": 13,
-      "time_casa": "CORINTHIANS/SP",
-      "time_fora": "PALMEIRAS/SP",
-      "info": "Clássico Estadual/Nacional",
-      "probabilidades": { "c1": 30, "x": 30, "c2": 40 },
-      "palpite_ia": "COLUNA 2",
-      "analise": "O Derby Paulista opõe a tradicional garra corintiana em Itaquera à maturidade do Palmeiras. O Alviverde tem apresentado times taticamente mais sólidos nos últimos anos e entra com leve favoritismo, mesmo fora."
+      "time_casa": "RACING(ARG)/ARG",
+      "time_fora": "BOTAFOGO/RJ",
+      "info": "Competição Sul-Americana",
+      "probabilidades": { "c1": 40, "x": 30, "c2": 30 },
+      "palpite_ia": "EMPATE",
+      "analise": "O Racing impõe grande pressão no El Cilindro, mas o Botafogo montou um elenco capaz de competir em alto nível em qualquer estádio do continente. Jogo tenso e equilibrado, com cara de empate."
     },
     {
       "posicao": 14,
-      "time_casa": "CRUZEIRO/MG",
-      "time_fora": "BRAGANTINO/SP",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 40, "x": 30, "c2": 30 },
+      "time_casa": "FLUMINENSE/RJ",
+      "time_fora": "IND RIVADAVIA/ARG",
+      "info": "Competição Sul-Americana",
+      "probabilidades": { "c1": 75, "x": 15, "c2": 10 },
       "palpite_ia": "COLUNA 1",
-      "analise": "No Mineirão, o Cruzeiro tenta se impor através do volume de jogo. O Red Bull Bragantino é muito intenso e especialista em transições. É um confronto muito equilibrado, mas com ligeira vantagem celeste pelo mando."
+      "analise": "Amplo favoritismo para o Fluminense. A qualidade técnica da equipe carioca e o fator Maracanã criam um cenário muito adverso para o modesto Independiente Rivadavia."
     }
   ]
 }
