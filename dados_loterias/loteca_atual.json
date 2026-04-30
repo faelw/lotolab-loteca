@@ -1,133 +1,133 @@
 {
-  "concurso": "1244",
+  "concurso": "1245",
   "loteria": "loteca",
-  "atualizado_em": "2026-04-16",
+  "atualizado_em": "2026-04-30",
   "jogos": [
     {
       "posicao": 1,
       "time_casa": "FLAMENGO/RJ",
-      "time_fora": "BAHIA/BA",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 60, "x": 25, "c2": 15 },
+      "time_fora": "VASCO DA GAMA/RJ",
+      "info": "Clássico Estadual",
+      "probabilidades": { "c1": 55, "x": 25, "c2": 20 },
       "palpite_ia": "COLUNA 1",
-      "analise": "O Flamengo atuando no Maracanã sempre impõe um forte ritmo ofensivo. O Bahia possui um elenco qualificado e bom investimento, mas o fator casa e a força do ataque rubro-negro dão o favoritismo aos mandantes."
+      "analise": "O Clássico dos Milhões é sempre tenso, mas o Flamengo possui um elenco consideravelmente mais profundo e qualificado. Com o mando de campo no Maracanã, a vantagem técnica rubro-negra deve prevalecer sobre o ímpeto cruzmaltino."
     },
     {
       "posicao": 2,
-      "time_casa": "NAUTICO/PE",
-      "time_fora": "SAO BERNARDO/SP",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 45, "x": 35, "c2": 20 },
-      "palpite_ia": "COLUNA 1",
-      "analise": "O Náutico nos Aflitos é tradicionalmente muito forte e conta com o apoio intenso de sua torcida. O São Bernardo é um time bem organizado taticamente, mas deve sofrer com a pressão pernambucana."
-    },
-    {
-      "posicao": 3,
-      "time_casa": "VASCO DA GAMA/RJ",
-      "time_fora": "SAO PAULO/SP",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 35, "x": 35, "c2": 30 },
-      "palpite_ia": "EMPATE",
-      "analise": "Um clássico nacional muito parelho. O Vasco usa São Januário como trunfo, enquanto o São Paulo possui peças individuais de maior peso. A expectativa é de um duelo truncado, com alta chance de igualdade no placar."
-    },
-    {
-      "posicao": 4,
-      "time_casa": "CHAPECOENSE/SC",
-      "time_fora": "BOTAFOGO/RJ",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 20, "x": 30, "c2": 50 },
-      "palpite_ia": "COLUNA 2",
-      "analise": "A Arena Condá já não é o terror dos visitantes como em outros tempos. O Botafogo tem um elenco muito superior técnica e fisicamente, entrando como favorito mesmo atuando fora de casa."
-    },
-    {
-      "posicao": 5,
-      "time_casa": "VILA NOVA/GO",
-      "time_fora": "OPERARIO/PR",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 55, "x": 30, "c2": 15 },
-      "palpite_ia": "COLUNA 1",
-      "analise": "O Vila Nova é um excelente mandante no OBA, mantendo uma defesa sólida e sendo letal em casa. O Operário tem dificuldades em propor o jogo longe de Ponta Grossa, favorecendo os goianos."
-    },
-    {
-      "posicao": 6,
-      "time_casa": "VITORIA/BA",
-      "time_fora": "CORINTHIANS/SP",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 40, "x": 35, "c2": 25 },
-      "palpite_ia": "COLUNA 1",
-      "analise": "O Barradão é um trunfo pesado para o Vitória, que joga com muita intensidade física em seus domínios. O Corinthians costuma apresentar dificuldades em jogos fora de casa com forte pressão, dando ligeira vantagem ao Leão."
-    },
-    {
-      "posicao": 7,
-      "time_casa": "CRUZEIRO/MG",
-      "time_fora": "GREMIO/RS",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 45, "x": 30, "c2": 25 },
-      "palpite_ia": "COLUNA 1",
-      "analise": "Confronto de gigantes. O Cruzeiro tem se mostrado consistente no Mineirão, enquanto o Grêmio oscila em suas atuações como visitante. O fator casa é o fiel da balança neste duelo equilibrado."
-    },
-    {
-      "posicao": 8,
-      "time_casa": "CRB/AL",
-      "time_fora": "JUVENTUDE/RS",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 45, "x": 30, "c2": 25 },
-      "palpite_ia": "COLUNA 1",
-      "analise": "O CRB é muito forte jogando no Rei Pelé, aproveitando bem o clima e o apoio local. O Juventude é aguerrido, mas a viagem longa e o mando de campo pendem o favoritismo para a equipe alagoana."
-    },
-    {
-      "posicao": 9,
-      "time_casa": "INTERNACIONAL/RS",
-      "time_fora": "MIRASSOL/SP",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 65, "x": 20, "c2": 15 },
-      "palpite_ia": "COLUNA 1",
-      "analise": "Diferença considerável de qualidade técnica. O Internacional, jogando no Beira-Rio, deve dominar a posse e as ações ofensivas contra um Mirassol que jogará de forma reativa."
-    },
-    {
-      "posicao": 10,
-      "time_casa": "CORITIBA/PR",
-      "time_fora": "ATLETICO/MG",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 25, "x": 30, "c2": 45 },
-      "palpite_ia": "COLUNA 2",
-      "analise": "O Couto Pereira sempre pulsa forte, mas o Atlético-MG possui um dos elencos mais qualificados do país. A capacidade de decisão individual do ataque atleticano os coloca como favoritos no Paraná."
-    },
-    {
-      "posicao": 11,
-      "time_casa": "SANTOS/SP",
-      "time_fora": "FLUMINENSE/RJ",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 35, "x": 35, "c2": 30 },
-      "palpite_ia": "EMPATE",
-      "analise": "Um jogo de estilos interessantes na Vila Belmiro. O Santos usa a base e a velocidade, enquanto o Fluminense aposta no toque de bola. Duelo muito tático e com grande possibilidade de terminar empatado."
-    },
-    {
-      "posicao": 12,
-      "time_casa": "PALMEIRAS/SP",
-      "time_fora": "ATHLETICO/PR",
-      "info": "Futebol Nacional",
-      "probabilidades": { "c1": 55, "x": 25, "c2": 20 },
-      "palpite_ia": "COLUNA 1",
-      "analise": "O Palmeiras no Allianz Parque é avassalador, com um trabalho de longo prazo muito sólido. O Athletico-PR é competitivo, mas costuma baixar muito o rendimento fora de seu gramado sintético."
-    },
-    {
-      "posicao": 13,
-      "time_casa": "BRAGANTINO/SP",
+      "time_casa": "BOTAFOGO/RJ",
       "time_fora": "REMO/PA",
       "info": "Futebol Nacional",
       "probabilidades": { "c1": 70, "x": 20, "c2": 10 },
       "palpite_ia": "COLUNA 1",
-      "analise": "Disparidade técnica enorme. O Red Bull Bragantino é intenso, rápido e joga a Série A em alto nível. O Remo terá uma missão hercúlea para tentar segurar os donos da casa no Nabi Abi Chedid."
+      "analise": "Disparidade técnica enorme. O Botafogo, jogando no Nilton Santos, tem total favoritismo contra um Remo que deve entrar focado exclusivamente em tentar amarrar a partida e se defender."
     },
     {
-      "posicao": 14,
+      "posicao": 3,
+      "time_casa": "PALMEIRAS/SP",
+      "time_fora": "SANTOS/SP",
+      "info": "Clássico Estadual",
+      "probabilidades": { "c1": 60, "x": 25, "c2": 15 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "O Palmeiras atua de forma avassaladora no Allianz Parque. O Santos, mesmo organizado, tem dificuldades contra a intensidade e as variações táticas do Alviverde. O favoritismo é amplo para os donos da casa."
+    },
+    {
+      "posicao": 4,
+      "time_casa": "VITORIA/BA",
+      "time_fora": "CORITIBA/PR",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 45, "x": 30, "c2": 25 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "O Barradão é uma verdadeira fortaleza para o Vitória, que impõe muita fisicalidade em seus jogos. O Coritiba costuma baixar a intensidade longe do Couto Pereira, dando boa vantagem aos baianos."
+    },
+    {
+      "posicao": 5,
+      "time_casa": "ATHLETICO/PR",
+      "time_fora": "GREMIO/RS",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 50, "x": 30, "c2": 20 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "Na Ligga Arena, o Athletico-PR dita o ritmo com maestria em seu gramado sintético. O Grêmio é muito forte em casa, mas como visitante tem oscilado bastante, tornando a vitória paranaense o cenário mais provável."
+    },
+    {
+      "posicao": 6,
       "time_casa": "FORTALEZA/CE",
-      "time_fora": "CRICIUMA/SC",
+      "time_fora": "GOIAS/GO",
       "info": "Futebol Nacional",
       "probabilidades": { "c1": 65, "x": 20, "c2": 15 },
       "palpite_ia": "COLUNA 1",
-      "analise": "O Fortaleza é um dos projetos mais bem-sucedidos do Brasil e no Castelão atua com imposição. O Criciúma é organizado, mas não deve suportar a pressão e a variação tática do tricolor cearense."
+      "analise": "O Leão do Pici é um dos mandantes mais sólidos do país. O Goiás geralmente adota postura reativa como visitante, mas dificilmente conseguirá suportar o volume ofensivo imposto pelo Fortaleza no Castelão."
+    },
+    {
+      "posicao": 7,
+      "time_casa": "CRUZEIRO/MG",
+      "time_fora": "ATLETICO/MG",
+      "info": "Clássico Estadual",
+      "probabilidades": { "c1": 30, "x": 35, "c2": 35 },
+      "palpite_ia": "EMPATE",
+      "analise": "O clássico mineiro promete grande equilíbrio. O Atlético-MG tem ligeira vantagem na qualidade individual, mas o Cruzeiro joga com extrema aplicação tática no Mineirão. Uma igualdade no placar é uma forte tendência."
+    },
+    {
+      "posicao": 8,
+      "time_casa": "BOURNEMOUTH/ING",
+      "time_fora": "CRYSTAL PALACE/ING",
+      "info": "Futebol Internacional",
+      "probabilidades": { "c1": 35, "x": 35, "c2": 30 },
+      "palpite_ia": "EMPATE",
+      "analise": "Duelo de meio de tabela na Premier League com duas equipes de níveis parecidos. O fator casa equilibra o talento individual do Palace. Jogo com grande vocação para terminar empatado."
+    },
+    {
+      "posicao": 9,
+      "time_casa": "MANCHESTER UNITED/ING",
+      "time_fora": "LIVERPOOL/ING",
+      "info": "Futebol Internacional",
+      "probabilidades": { "c1": 25, "x": 30, "c2": 45 },
+      "palpite_ia": "COLUNA 2",
+      "analise": "O maior clássico inglês. Mesmo o United jogando em Old Trafford, o Liverpool apresenta um padrão de jogo muito mais consistente, letal e organizado. Os Reds entram como favoritos fora de casa."
+    },
+    {
+      "posicao": 10,
+      "time_casa": "SAO PAULO/SP",
+      "time_fora": "BAHIA/BA",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 50, "x": 30, "c2": 20 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "O São Paulo atua de forma muito sufocante no MorumBIS. O Bahia tem um elenco de qualidade e gosta de ter a posse, mas costuma deixar espaços na transição defensiva que o Tricolor paulista sabe explorar."
+    },
+    {
+      "posicao": 11,
+      "time_casa": "INTERNACIONAL/RS",
+      "time_fora": "FLUMINENSE/RJ",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 45, "x": 30, "c2": 25 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "O Beira-Rio sempre empurra o Internacional para cima dos adversários. O Fluminense vai tentar cadenciar o jogo com a posse de bola, mas o Inter deve levar perigo constante nas transições em velocidade."
+    },
+    {
+      "posicao": 12,
+      "time_casa": "CHAPECOENSE/SC",
+      "time_fora": "BRAGANTINO/SP",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 20, "x": 30, "c2": 50 },
+      "palpite_ia": "COLUNA 2",
+      "analise": "A Chapecoense já não tem a força caseira de antigamente. O Red Bull Bragantino sobra na parte física e técnica neste confronto, tendo amplas condições de dominar o jogo mesmo atuando em Santa Catarina."
+    },
+    {
+      "posicao": 13,
+      "time_casa": "ASTON VILLA/ING",
+      "time_fora": "TOTTENHAM/ING",
+      "info": "Futebol Internacional",
+      "probabilidades": { "c1": 40, "x": 30, "c2": 30 },
+      "palpite_ia": "COLUNA 1",
+      "analise": "Confronto direto na parte de cima da tabela inglesa. O Villa Park é um estádio muito hostil e o Aston Villa tem se mostrado excelente mandante contra os times do 'Big Six'. Ligeiro favoritismo aos donos da casa."
+    },
+    {
+      "posicao": 14,
+      "time_casa": "MIRASSOL/SP",
+      "time_fora": "CORINTHIANS/SP",
+      "info": "Futebol Nacional",
+      "probabilidades": { "c1": 25, "x": 30, "c2": 45 },
+      "palpite_ia": "COLUNA 2",
+      "analise": "O Mirassol é muito organizado, mas o Corinthians possui peças com maior capacidade de resolução individual e o peso da camisa. Em um jogo que tende a ser truncado, o Alvinegro paulista leva a melhor."
     }
   ]
 }
